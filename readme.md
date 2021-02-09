@@ -5,6 +5,8 @@ https://mern-fullstack-app-udemy-max.herokuapp.com/
 ## Frontend URL:
 https://mern-fullstack-app-udemy-max.web.app/
 
+### nodemon.json example:
+
     {
 
     "env": {
